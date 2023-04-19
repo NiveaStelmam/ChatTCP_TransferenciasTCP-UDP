@@ -1,0 +1,849 @@
+import java.io.*;
+import java.net.*;
+
+public class Sever {
+    public static void main(String[] args) {
+        try {
+            // Define a porta a ser utilizada
+            int PORTA = 8080;
+
+            // Cria um socket servidor
+            ServerSocket serverSocket = new ServerSocket(PORTA);
+            System.out.println("Servidor iniciado na porta " + PORTA);
+
+            // Aguarda a conexão do usuário A
+            Socket clienteA = serverSocket.accept();
+            System.out.println("Usuário A conectado");
+
+            // Aguarda a conexão do usuário B
+            Socket clienteB = serverSocket.accept();
+            System.out.println("Usuário B conectado");
+import java.io.*;
+import java.net.*;
+
+public class Sever {
+    public static void main(String[] args) {
+        try {
+            // Define a porta a ser utilizada
+            int PORTA = 8080;
+
+            // Cria um socket servidor
+            ServerSocket serverSocket = new ServerSocket(PORTA);
+            System.out.println("Servidor iniciado na porta " + PORTA);
+
+            // Aguarda a conexão do usuário A
+            Socket clienteA = serverSocket.accept();
+            System.out.println("Usuário A conectado");
+
+            // Aguarda a conexão do usuário B
+            Socket clienteB = serverSocket.accept();
+            System.out.println("Usuário B conectado");
+import java.io.*;
+import java.net.*;
+import java.io.*;
+import java.net.*;
+public class Sever {
+    public static void main(String[] args) {
+        try {
+            // Define a porta a ser utilizada
+            int PORTA = 8080;
+
+            // Cria um socket servidor
+            ServerSocket serverSocket = new ServerSocket(PORTA);
+            System.out.println("Servidor iniciado na porta " + PORTA);
+
+            // Aguarda a conexão do usuário A
+            Socket clienteA = serverSocket.accept();
+            System.out.println("Usuário A conectado");
+
+            // Aguarda a conexão do usuário B
+            Socket clienteB = serverSocket.accept();
+            System.out.println("Usuário B conectado");
+import java.io.*;
+import java.net.*;
+
+public class Sever {
+    public static void main(String[] args) {
+        try {
+            // Define a porta a ser utilizada
+            int PORTA = 8080;
+
+            // Cria um socket servidor
+            ServerSocket serverSocket = new ServerSocket(PORTA);
+            System.out.println("Servidor iniciado na porta " + PORTA);
+
+            // Aguarda a conexão do usuário A
+            Socket clienteA = serverSocket.accept();
+            System.out.println("Usuário A conectado");
+
+            // Aguarda a conexão do usuário B
+            Socket clienteB = serverSocket.accept();
+            System.out.println("Usuário B conectado");
+import java.io.*;
+import java.net.*;
+
+public class Sever {
+    public static void main(String[] args) {
+        try {
+            // Define a porta a ser utilizada
+            int PORTA = 8080;
+
+            // Cria um socket servidor
+            ServerSocket serverSocket = new ServerSocket(PORTA);
+            System.out.println("Servidor iniciado na porta " + PORTA);
+
+            // Aguarda a conexão do usuário A
+            Socket clienteA = serverSocket.accept();
+            System.out.println("Usuário A conectado");
+
+            // Aguarda a conexão do usuário B
+            Socket clienteB = serverSocket.accept();
+            System.out.println("Usuário B conectado");
+
+
+public class Sever {
+    public static void main(String[] args) {
+        try {
+            // Define a porta a ser utilizada
+            int PORTA = 8080;
+
+            // Cria um socket servidor
+            ServerSocket serverSocket = new ServerSocket(PORTA);
+            System.out.println("Servidor iniciado na porta " + PORTA);
+
+            // Aguarda a conexão do usuário A
+            Socket clienteA = serverSocket.accept();
+            System.out.println("Usuário A conectado");
+
+            // Aguarda a conexão do usuário B
+            Socket clienteB = serverSocket.accept();
+            System.out.println("Usuário B conectado");
+import java.io.*;
+import java.net.*;
+
+public class Sever {
+    public static void main(String[] args) {
+        try {
+            // Define a porta a ser utilizada
+            int PORTA = 8080;
+
+            // Cria um socket servidor
+            ServerSocket serverSocket = new ServerSocket(PORTA);
+            System.out.println("Servidor iniciado na porta " + PORTA);
+
+            // Aguarda a conexão do usuário A
+            Socket clienteA = serverSocket.accept();
+            System.out.println("Usuário A conectado");
+
+            // Aguarda a conexão do usuário B
+            Socket clienteB = serverSocket.accept();
+            System.out.println("Usuário B conectado");
+import java.io.*;
+import java.net.*;
+
+public class Sever {
+    public static void main(String[] args) {
+        try {
+            // Define a porta a ser utilizada
+            int PORTA = 8080;
+
+            // Cria um socket servidor
+            ServerSocket serverSocket = new ServerSocket(PORTA);
+            System.out.println("Servidor iniciado na porta " + PORTA);
+
+            // Aguarda a conexão do usuário A
+            Socket clienteA = serverSocket.accept();
+            System.out.println("Usuário A conectado");
+
+            // Aguarda a conexão do usuário B
+            Socket clienteB = serverSocket.accept();
+            System.out.println("Usuário B conectado");
+import java.io.*;
+import java.net.*;
+
+public class Sever {
+    public static void main(String[] args) {
+        try {
+            // Define a porta a ser utilizada
+            int PORTA = 8080;
+
+            // Cria um socket servidor
+            ServerSocket serverSocket = new ServerSocket(PORTA);
+            System.out.println("Servidor iniciado na porta " + PORTA);
+
+            // Aguarda a conexão do usuário A
+            Socket clienteA = serverSocket.accept();
+            System.out.println("Usuário A conectado");
+
+            // Aguarda a conexão do usuário B
+            Socket clienteB = serverSocket.accept();
+            System.out.println("Usuário B conectado");
+import java.io.*;
+import java.net.*;
+
+public class Sever {
+    public static void main(String[] args) {
+        try {
+            // Define a porta a ser utilizada
+            int PORTA = 8080;
+
+            // Cria um socket servidor
+            ServerSocket serverSocket = new ServerSocket(PORTA);
+            System.out.println("Servidor iniciado na porta " + PORTA);
+
+            // Aguarda a conexão do usuário A
+            Socket clienteA = serverSocket.accept();
+            System.out.println("Usuário A conectado");
+
+            // Aguarda a conexão do usuário B
+            Socket clienteB = serverSocket.accept();
+            System.out.println("Usuário B conectado");
+import java.io.*;
+import java.net.*;
+
+public class Sever {
+    public static void main(String[] args) {
+        try {
+            // Define a porta a ser utilizada
+            int PORTA = 8080;
+
+            // Cria um socket servidor
+            ServerSocket serverSocket = new ServerSocket(PORTA);
+            System.out.println("Servidor iniciado na porta " + PORTA);
+
+            // Aguarda a conexão do usuário A
+            Socket clienteA = serverSocket.accept();
+            System.out.println("Usuário A conectado");
+
+            // Aguarda a conexão do usuário B
+            Socket clienteB = serverSocket.accept();
+            System.out.println("Usuário B conectado");
+import java.io.*;
+import java.net.*;
+
+public class Sever {
+    public static void main(String[] args) {
+        try {
+            // Define a porta a ser utilizada
+            int PORTA = 8080;
+
+            // Cria um socket servidor
+            ServerSocket serverSocket = new ServerSocket(PORTA);
+            System.out.println("Servidor iniciado na porta " + PORTA);
+
+            // Aguarda a conexão do usuário A
+            Socket clienteA = serverSocket.accept();
+            System.out.println("Usuário A conectado");
+
+            // Aguarda a conexão do usuário B
+            Socket clienteB = serverSocket.accept();
+            System.out.println("Usuário B conectado");
+import java.io.*;
+import java.net.*;
+
+public class Sever {
+    public static void main(String[] args) {
+        try {
+            // Define a porta a ser utilizada
+            int PORTA = 8080;
+
+            // Cria um socket servidor
+            ServerSocket serverSocket = new ServerSocket(PORTA);
+            System.out.println("Servidor iniciado na porta " + PORTA);
+
+            // Aguarda a conexão do usuário A
+            Socket clienteA = serverSocket.accept();
+            System.out.println("Usuário A conectado");
+
+            // Aguarda a conexão do usuário B
+            Socket clienteB = serverSocket.accept();
+            System.out.println("Usuário B conectado");
+import java.io.*;
+import java.net.*;
+
+public class Sever {
+    public static void main(String[] args) {
+        try {
+            // Define a porta a ser utilizada
+            int PORTA = 8080;
+
+            // Cria um socket servidor
+            ServerSocket serverSocket = new ServerSocket(PORTA);
+            System.out.println("Servidor iniciado na porta " + PORTA);
+
+            // Aguarda a conexão do usuário A
+            Socket clienteA = serverSocket.accept();
+            System.out.println("Usuário A conectado");
+
+            // Aguarda a conexão do usuário B
+            Socket clienteB = serverSocket.accept();
+            System.out.println("Usuário B conectado");
+import java.io.*;
+import java.net.*;
+
+public class Sever {
+    public static void main(String[] args) {
+        try {
+            // Define a porta a ser utilizada
+            int PORTA = 8080;
+
+            // Cria um socket servidor
+            ServerSocket serverSocket = new ServerSocket(PORTA);
+            System.out.println("Servidor iniciado na porta " + PORTA);
+
+            // Aguarda a conexão do usuário A
+            Socket clienteA = serverSocket.accept();
+            System.out.println("Usuário A conectado");
+
+            // Aguarda a conexão do usuário B
+            Socket clienteB = serverSocket.accept();
+            System.out.println("Usuário B conectado");
+import java.io.*;
+import java.net.*;
+
+public class Sever {
+    public static void main(String[] args) {
+        try {
+            // Define a porta a ser utilizada
+            int PORTA = 8080;
+
+            // Cria um socket servidor
+            ServerSocket serverSocket = new ServerSocket(PORTA);
+            System.out.println("Servidor iniciado na porta " + PORTA);
+
+            // Aguarda a conexão do usuário A
+            Socket clienteA = serverSocket.accept();
+            System.out.println("Usuário A conectado");
+
+            // Aguarda a conexão do usuário B
+            Socket clienteB = serverSocket.accept();
+            System.out.println("Usuário B conectado");
+import java.io.*;
+import java.net.*;
+
+public class Sever {
+    public static void main(String[] args) {
+        try {
+            // Define a porta a ser utilizada
+            int PORTA = 8080;
+
+            // Cria um socket servidor
+            ServerSocket serverSocket = new ServerSocket(PORTA);
+            System.out.println("Servidor iniciado na porta " + PORTA);
+
+            // Aguarda a conexão do usuário A
+            Socket clienteA = serverSocket.accept();
+            System.out.println("Usuário A conectado");
+
+            // Aguarda a conexão do usuário B
+            Socket clienteB = serverSocket.accept();
+            System.out.println("Usuário B conectado");
+import java.io.*;
+import java.net.*;
+
+public class Sever {
+    public static void main(String[] args) {
+        try {
+            // Define a porta a ser utilizada
+            int PORTA = 8080;
+
+            // Cria um socket servidor
+            ServerSocket serverSocket = new ServerSocket(PORTA);
+            System.out.println("Servidor iniciado na porta " + PORTA);
+
+            // Aguarda a conexão do usuário A
+            Socket clienteA = serverSocket.accept();
+            System.out.println("Usuário A conectado");
+
+            // Aguarda a conexão do usuário B
+            Socket clienteB = serverSocket.accept();
+            System.out.println("Usuário B conectado");
+import java.io.*;
+import java.net.*;
+
+public class Sever {
+    public static void main(String[] args) {
+        try {
+            // Define a porta a ser utilizada
+            int PORTA = 8080;
+
+            // Cria um socket servidor
+            ServerSocket serverSocket = new ServerSocket(PORTA);
+            System.out.println("Servidor iniciado na porta " + PORTA);
+
+            // Aguarda a conexão do usuário A
+            Socket clienteA = serverSocket.accept();
+            System.out.println("Usuário A conectado");
+
+            // Aguarda a conexão do usuário B
+            Socket clienteB = serverSocket.accept();
+            System.out.println("Usuário B conectado");
+import java.io.*;
+import java.net.*;
+
+public class Sever {
+    public static void main(String[] args) {
+        try {
+            // Define a porta a ser utilizada
+            int PORTA = 8080;
+
+            // Cria um socket servidor
+            ServerSocket serverSocket = new ServerSocket(PORTA);
+            System.out.println("Servidor iniciado na porta " + PORTA);
+
+            // Aguarda a conexão do usuário A
+            Socket clienteA = serverSocket.accept();
+            System.out.println("Usuário A conectado");
+
+            // Aguarda a conexão do usuário B
+            Socket clienteB = serverSocket.accept();
+            System.out.println("Usuário B conectado");
+import java.io.*;
+import java.net.*;
+
+public class Sever {
+    public static void main(String[] args) {
+        try {
+            // Define a porta a ser utilizada
+            int PORTA = 8080;
+
+            // Cria um socket servidor
+            ServerSocket serverSocket = new ServerSocket(PORTA);
+            System.out.println("Servidor iniciado na porta " + PORTA);
+
+            // Aguarda a conexão do usuário A
+            Socket clienteA = serverSocket.accept();
+            System.out.println("Usuário A conectado");
+
+            // Aguarda a conexão do usuário B
+            Socket clienteB = serverSocket.accept();
+            System.out.println("Usuário B conectado");
+import java.io.*;
+import java.net.*;
+
+public class Sever {
+    public static void main(String[] args) {
+        try {
+            // Define a porta a ser utilizada
+            int PORTA = 8080;
+
+            // Cria um socket servidor
+            ServerSocket serverSocket = new ServerSocket(PORTA);
+            System.out.println("Servidor iniciado na porta " + PORTA);
+
+            // Aguarda a conexão do usuário A
+            Socket clienteA = serverSocket.accept();
+            System.out.println("Usuário A conectado");
+
+            // Aguarda a conexão do usuário B
+            Socket clienteB = serverSocket.accept();
+            System.out.println("Usuário B conectado");
+import java.io.*;
+import java.net.*;
+
+public class Sever {
+    public static void main(String[] args) {
+        try {
+            // Define a porta a ser utilizada
+            int PORTA = 8080;
+
+            // Cria um socket servidor
+            ServerSocket serverSocket = new ServerSocket(PORTA);
+            System.out.println("Servidor iniciado na porta " + PORTA);
+
+            // Aguarda a conexão do usuário A
+            Socket clienteA = serverSocket.accept();
+            System.out.println("Usuário A conectado");
+
+            // Aguarda a conexão do usuário B
+            Socket clienteB = serverSocket.accept();
+            System.out.println("Usuário B conectado");
+import java.io.*;
+import java.net.*;
+
+public class Sever {
+    public static void main(String[] args) {
+        try {
+            // Define a porta a ser utilizada
+            int PORTA = 8080;
+
+            // Cria um socket servidor
+            ServerSocket serverSocket = new ServerSocket(PORTA);
+            System.out.println("Servidor iniciado na porta " + PORTA);
+
+            // Aguarda a conexão do usuário A
+            Socket clienteA = serverSocket.accept();
+            System.out.println("Usuário A conectado");
+
+            // Aguarda a conexão do usuário B
+            Socket clienteB = serverSocket.accept();
+            System.out.println("Usuário B conectado");
+import java.io.*;
+import java.net.*;
+
+public class Sever {
+    public static void main(String[] args) {
+        try {
+            // Define a porta a ser utilizada
+            int PORTA = 8080;
+
+            // Cria um socket servidor
+            ServerSocket serverSocket = new ServerSocket(PORTA);
+            System.out.println("Servidor iniciado na porta " + PORTA);
+
+            // Aguarda a conexão do usuário A
+            Socket clienteA = serverSocket.accept();
+            System.out.println("Usuário A conectado");
+
+            // Aguarda a conexão do usuário B
+            Socket clienteB = serverSocket.accept();
+            System.out.println("Usuário B conectado");
+import java.io.*;
+import java.net.*;
+
+public class Sever {
+    public static void main(String[] args) {
+        try {
+            // Define a porta a ser utilizada
+            int PORTA = 8080;
+
+            // Cria um socket servidor
+            ServerSocket serverSocket = new ServerSocket(PORTA);
+            System.out.println("Servidor iniciado na porta " + PORTA);
+
+            // Aguarda a conexão do usuário A
+            Socket clienteA = serverSocket.accept();
+            System.out.println("Usuário A conectado");
+
+            // Aguarda a conexão do usuário B
+            Socket clienteB = serverSocket.accept();
+            System.out.println("Usuário B conectado");
+import java.io.*;
+import java.net.*;
+
+public class Sever {
+    public static void main(String[] args) {
+        try {
+            // Define a porta a ser utilizada
+            int PORTA = 8080;
+
+            // Cria um socket servidor
+            ServerSocket serverSocket = new ServerSocket(PORTA);
+            System.out.println("Servidor iniciado na porta " + PORTA);
+
+            // Aguarda a conexão do usuário A
+            Socket clienteA = serverSocket.accept();
+            System.out.println("Usuário A conectado");
+
+            // Aguarda a conexão do usuário B
+            Socket clienteB = serverSocket.accept();
+            System.out.println("Usuário B conectado");
+import java.io.*;
+import java.net.*;
+
+public class Sever {
+    public static void main(String[] args) {
+        try {
+            // Define a porta a ser utilizada
+            int PORTA = 8080;
+
+            // Cria um socket servidor
+            ServerSocket serverSocket = new ServerSocket(PORTA);
+            System.out.println("Servidor iniciado na porta " + PORTA);
+
+            // Aguarda a conexão do usuário A
+            Socket clienteA = serverSocket.accept();
+            System.out.println("Usuário A conectado");
+
+            // Aguarda a conexão do usuário B
+            Socket clienteB = serverSocket.accept();
+            System.out.println("Usuário B conectado");
+import java.io.*;
+import java.net.*;
+
+public class Sever {
+    public static void main(String[] args) {
+        try {
+            // Define a porta a ser utilizada
+            int PORTA = 8080;
+
+            // Cria um socket servidor
+            ServerSocket serverSocket = new ServerSocket(PORTA);
+            System.out.println("Servidor iniciado na porta " + PORTA);
+
+            // Aguarda a conexão do usuário A
+            Socket clienteA = serverSocket.accept();
+            System.out.println("Usuário A conectado");
+
+            // Aguarda a conexão do usuário B
+            Socket clienteB = serverSocket.accept();
+            System.out.println("Usuário B conectado");
+import java.io.*;
+import java.net.*;
+
+public class Sever {
+    public static void main(String[] args) {
+        try {
+            // Define a porta a ser utilizada
+            int PORTA = 8080;
+
+            // Cria um socket servidor
+            ServerSocket serverSocket = new ServerSocket(PORTA);
+            System.out.println("Servidor iniciado na porta " + PORTA);
+
+            // Aguarda a conexão do usuário A
+            Socket clienteA = serverSocket.accept();
+            System.out.println("Usuário A conectado");
+
+            // Aguarda a conexão do usuário B
+            Socket clienteB = serverSocket.accept();
+            System.out.println("Usuário B conectado");
+import java.io.*;
+import java.net.*;
+
+public class Sever {
+    public static void main(String[] args) {
+        try {
+            // Define a porta a ser utilizada
+            int PORTA = 8080;
+
+            // Cria um socket servidor
+            ServerSocket serverSocket = new ServerSocket(PORTA);
+            System.out.println("Servidor iniciado na porta " + PORTA);
+
+            // Aguarda a conexão do usuário A
+            Socket clienteA = serverSocket.accept();
+            System.out.println("Usuário A conectado");
+
+            // Aguarda a conexão do usuário B
+            Socket clienteB = serverSocket.accept();
+            System.out.println("Usuário B conectado");
+import java.io.*;
+import java.net.*;
+
+public class Sever {
+    public static void main(String[] args) {
+        try {
+            // Define a porta a ser utilizada
+            int PORTA = 8080;
+
+            // Cria um socket servidor
+            ServerSocket serverSocket = new ServerSocket(PORTA);
+            System.out.println("Servidor iniciado na porta " + PORTA);
+
+            // Aguarda a conexão do usuário A
+            Socket clienteA = serverSocket.accept();
+            System.out.println("Usuário A conectado");
+
+            // Aguarda a conexão do usuário B
+            Socket clienteB = serverSocket.accept();
+            System.out.println("Usuário B conectado");
+import java.io.*;
+import java.net.*;
+
+public class Sever {
+    public static void main(String[] args) {
+        try {
+            // Define a porta a ser utilizada
+            int PORTA = 8080;
+
+            // Cria um socket servidor
+            ServerSocket serverSocket = new ServerSocket(PORTA);
+            System.out.println("Servidor iniciado na porta " + PORTA);
+
+            // Aguarda a conexão do usuário A
+            Socket clienteA = serverSocket.accept();
+            System.out.println("Usuário A conectado");
+
+            // Aguarda a conexão do usuário B
+            Socket clienteB = serverSocket.accept();
+            System.out.println("Usuário B conectado");
+import java.io.*;
+import java.net.*;
+
+public class Sever {
+    public static void main(String[] args) {
+        try {
+            // Define a porta a ser utilizada
+            int PORTA = 8080;
+
+            // Cria um socket servidor
+            ServerSocket serverSocket = new ServerSocket(PORTA);
+            System.out.println("Servidor iniciado na porta " + PORTA);
+
+            // Aguarda a conexão do usuário A
+            Socket clienteA = serverSocket.accept();
+            System.out.println("Usuário A conectado");
+
+            // Aguarda a conexão do usuário B
+            Socket clienteB = serverSocket.accept();
+            System.out.println("Usuário B conectado");
+import java.io.*;
+import java.net.*;
+
+public class Sever {
+    public static void main(String[] args) {
+        try {
+            // Define a porta a ser utilizada
+            int PORTA = 8080;
+
+            // Cria um socket servidor
+            ServerSocket serverSocket = new ServerSocket(PORTA);
+            System.out.println("Servidor iniciado na porta " + PORTA);
+
+            // Aguarda a conexão do usuário A
+            Socket clienteA = serverSocket.accept();
+            System.out.println("Usuário A conectado");
+
+            // Aguarda a conexão do usuário B
+            Socket clienteB = serverSocket.accept();
+            System.out.println("Usuário B conectado");
+import java.io.*;
+import java.net.*;
+
+public class Sever {
+    public static void main(String[] args) {
+        try {
+            // Define a porta a ser utilizada
+            int PORTA = 8080;
+
+            // Cria um socket servidor
+            ServerSocket serverSocket = new ServerSocket(PORTA);
+            System.out.println("Servidor iniciado na porta " + PORTA);
+
+            // Aguarda a conexão do usuário A
+            Socket clienteA = serverSocket.accept();
+            System.out.println("Usuário A conectado");
+
+            // Aguarda a conexão do usuário B
+            Socket clienteB = serverSocket.accept();
+            System.out.println("Usuário B conectado");
+import java.io.*;
+import java.net.*;
+
+public class Sever {
+    public static void main(String[] args) {
+        try {
+            // Define a porta a ser utilizada
+            int PORTA = 8080;
+
+            // Cria um socket servidor
+            ServerSocket serverSocket = new ServerSocket(PORTA);
+            System.out.println("Servidor iniciado na porta " + PORTA);
+
+            // Aguarda a conexão do usuário A
+            Socket clienteA = serverSocket.accept();
+            System.out.println("Usuário A conectado");
+
+            // Aguarda a conexão do usuário B
+            Socket clienteB = serverSocket.accept();
+            System.out.println("Usuário B conectado");
+import java.io.*;
+import java.net.*;
+
+public class Sever {
+    public static void main(String[] args) {
+        try {
+            // Define a porta a ser utilizada
+            int PORTA = 8080;
+
+            // Cria um socket servidor
+            ServerSocket serverSocket = new ServerSocket(PORTA);
+            System.out.println("Servidor iniciado na porta " + PORTA);
+
+            // Aguarda a conexão do usuário A
+            Socket clienteA = serverSocket.accept();
+            System.out.println("Usuário A conectado");
+
+            // Aguarda a conexão do usuário B
+            Socket clienteB = serverSocket.accept();
+            System.out.println("Usuário B conectado");
+import java.io.*;
+import java.net.*;
+
+public class Sever {
+    public static void main(String[] args) {
+        try {
+            // Define a porta a ser utilizada
+            int PORTA = 8080;
+
+            // Cria um socket servidor
+            ServerSocket serverSocket = new ServerSocket(PORTA);
+            System.out.println("Servidor iniciado na porta " + PORTA);
+
+            // Aguarda a conexão do usuário A
+            Socket clienteA = serverSocket.accept();
+            System.out.println("Usuário A conectado");
+
+            // Aguarda a conexão do usuário B
+            Socket clienteB = serverSocket.accept();
+            System.out.println("Usuário B conectado");
+import java.io.*;
+import java.net.*;
+
+public class Sever {
+    public static void main(String[] args) {
+        try {
+            // Define a porta a ser utilizada
+            int PORTA = 8080;
+
+            // Cria um socket servidor
+            ServerSocket serverSocket = new ServerSocket(PORTA);
+            System.out.println("Servidor iniciado na porta " + PORTA);
+
+            // Aguarda a conexão do usuário A
+            Socket clienteA = serverSocket.accept();
+            System.out.println("Usuário A conectado");
+
+            // Aguarda a conexão do usuário B
+            Socket clienteB = serverSocket.accept();
+            System.out.println("Usuário B conectado");
+import java.io.*;
+import java.net.*;
+
+public class Sever {
+    public static void main(String[] args) {
+        try {
+            // Define a porta a ser utilizada
+            int PORTA = 8080;
+
+            // Cria um socket servidor
+            ServerSocket serverSocket = new ServerSocket(PORTA);
+            System.out.println("Servidor iniciado na porta " + PORTA);
+
+            // Aguarda a conexão do usuário A
+            Socket clienteA = serverSocket.accept();
+            System.out.println("Usuário A conectado");
+
+            // Aguarda a conexão do usuário B
+            Socket clienteB = serverSocket.accept();
+            System.out.println("Usuário B conectado");
+import java.io.*;
+import java.net.*;
+
+public class Sever {
+    public static void main(String[] args) {
+        try {
+            // Define a porta a ser utilizada
+            int PORTA = 8080;
+
+            // Cria um socket servidor
+            ServerSocket serverSocket = new ServerSocket(PORTA);
+            System.out.println("Servidor iniciado na porta " + PORTA);
+
+            // Aguarda a conexão do usuário A
+            Socket clienteA = serverSocket.accept();
+            System.out.println("Usuário A conectado");
+
+            // Aguarda a conexão do usuário B
+            Socket clienteB = serverSocket.accept();
+            System.out.println("Usuário B conectado");
+
+import java.io.*;
+import java.net.*;
+
+public class Sever {
+    public static void main(String[] args) {
+        try {
+            // Define a porta a ser utilizada
+            int PORTA = 8080;
