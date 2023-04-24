@@ -6,8 +6,8 @@ import java.net.Socket;
 
 public class Client2 {
 
-    private static final String IP_SERVIDOR = "localhost";
-    private static final int PORTA_SERVIDOR = 12345;
+    private static final String IP_SERVIDOR = "192.168.0.5";
+    private static final int PORTA_SERVIDOR = 54321;
 
     public static void main(String[] args) throws IOException {
         Socket socket = new Socket(IP_SERVIDOR, PORTA_SERVIDOR);
