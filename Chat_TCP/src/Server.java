@@ -23,7 +23,7 @@ public class Server {
         try {
             // Cria um loop infinito para receber conexões de clientes
             while (true) {
-                // Quando um novo cliente se conecta, cria um objeto TratadorDeCliente para lidar com a conexão
+
                 //Cada vez que o servidor aceita uma conexão de um cliente, ele cria um objeto TratadorDeCliente que estende a classe Thread.
                 //Esse objeto é responsável por lidar com as solicitações do cliente de forma assíncrona, ou seja, sem bloquear o servidor para
                 //outros clientes que possam estar conectados simultaneamente.

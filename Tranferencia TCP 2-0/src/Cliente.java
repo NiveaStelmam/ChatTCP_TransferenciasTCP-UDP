@@ -13,12 +13,12 @@ public class Cliente {
             File file = new File("C:\\Users\\Adriano\\Documents\\TrabalhoSD\\msg\\SESSENTA.txt");
 
             // Enviando arquivo para o servidor
-            FileInputStream fis = new FileInputStream(file);
-            OutputStream os = socket.getOutputStream();
+            FileInputStream fis = new FileInputStream(file); // O objeto FileInputStream é responsável por ler os bytes do arquivo
+            OutputStream os = socket.getOutputStream(); // o objeto OutputStream é usado para enviar os dados através do socket.
             byte[] buffer = new byte[60000];
             int bytesRead;
             long start = System.currentTimeMillis();
-            while ((bytesRead = fis.read(buffer)) != -1) {
+            while ((bytesRead = fis.read(buffer)) != -1) { // lê os dados enviados pelo cliente e armazena no buffer até que não haja mais dados a serem lidos.
                 os.write(buffer, 0, bytesRead);
             }
             long end = System.currentTimeMillis();
